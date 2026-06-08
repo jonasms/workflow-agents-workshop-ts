@@ -3,6 +3,7 @@ TODO before conference:
 - [x] Lightweight test suite covering core behaviors
 - [X] Add "implement this function"  exercise in second module, with clues/steps
 - [ ] Refactor quick-review for polish
+- [ ] Review and polish UI
 - [ ] Implement a functional tool and use in review process
 - [ ] Write facilitator guide
 - [ ] Review and polish every file for tone/quality
